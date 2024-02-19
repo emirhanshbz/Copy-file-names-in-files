@@ -1,0 +1,15 @@
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/bin/Debug/net7.0/bosDeneme
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/bin/Debug/net7.0/bosDeneme.deps.json
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/bin/Debug/net7.0/bosDeneme.runtimeconfig.json
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/bin/Debug/net7.0/bosDeneme.dll
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/bin/Debug/net7.0/bosDeneme.pdb
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/obj/Debug/net7.0/bosDeneme.csproj.AssemblyReference.cache
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/obj/Debug/net7.0/bosDeneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/obj/Debug/net7.0/bosDeneme.AssemblyInfoInputs.cache
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/obj/Debug/net7.0/bosDeneme.AssemblyInfo.cs
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/obj/Debug/net7.0/bosDeneme.csproj.CoreCompileInputs.cache
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/obj/Debug/net7.0/bosDeneme.dll
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/obj/Debug/net7.0/refint/bosDeneme.dll
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/obj/Debug/net7.0/bosDeneme.pdb
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/obj/Debug/net7.0/bosDeneme.genruntimeconfig.cache
+/Users/emirhansahbaz/Projects/bosDeneme/bosDeneme/obj/Debug/net7.0/ref/bosDeneme.dll
